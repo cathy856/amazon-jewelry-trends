@@ -1,1 +1,5 @@
-blank_issues_enabled: true
+blank_issues_enabled: false
+contact_links:
+  - name: 匿名私有阅读反馈
+    url: https://cathy856.github.io/amazon-jewelry-trends/#reader-feedback
+    about: 请在报告第四个Tab直接提交，不需要GitHub账号。
